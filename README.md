@@ -1,9 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A Passionate Full Stack Web developer from India</h3>
-<img align="right" alt="robot" width="400" src="![image](https://user-images.githubusercontent.com/94823282/215319142-156f4e89-0b50-4844-a7a1-e719f97e7aa0.png)
-">
-
-
+<img align="right" alt="robot" width="400" src="
+￼
+" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivamadav" /> </p>
 
 - 🌱 I’m currently learning **Frameworks and Networking**
