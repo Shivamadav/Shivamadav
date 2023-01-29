@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
+<h1 align="center">Hi 👋, I'm <i>Shivam Yadav</i></h1>
 <h3 align="center">A Passionate Full Stack Web developer from India</h3>
 <img align="right" alt="robot" width="400" src="
 ￼">
