@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate Web Developer , Freelancer & Video Editor from India</h3>
 
-<img align="right" src="https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="robot" width="400">
+<img align="right" src="https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="robot" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivamadav" /> </p>
 
