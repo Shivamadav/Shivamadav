@@ -1,3 +1,5 @@
+![logo](https://github.com/Shivamadav/Shivamadav/blob/main/github.png)
+
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate Web Developer , Freelancer & Video Editor from India</h3>
 
