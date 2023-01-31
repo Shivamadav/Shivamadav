@@ -6,9 +6,9 @@
 
  <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jm07GcX/github.jpg" alt="github" border="0"></a> -->
 <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
-<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD"> -->
+<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD"> 
  
-<img src="Git LOgo Banner Sceenshot.png" width="100%">
+<img src="Git LOgo Banner Sceenshot.png" width="100%"> -->
  
 
 <h3 align="right"><font color="lightgreen">Daily Jokes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#127872;&nbsp;</font></h3>
