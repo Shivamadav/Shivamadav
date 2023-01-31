@@ -1,6 +1,6 @@
 <!-- &#128064;&#128064;❤ ; &#128157; -->
-<!-- ![logo](./Practise/Github%20Banner.png)<br> -->
-<img src="./Practise/Github%20Banner.png" width="100%" height="50%">
+
+<img src="https://i.ibb.co/xScgm7n/github.jpg" alt="github" border="0" width="100%"> 
 
 
 <h3><font color="lightgreen">Daily Jokes</font></h3>&#127872;
