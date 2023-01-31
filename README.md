@@ -50,7 +50,7 @@
 
 - 📫 How to reach me <a href="mailto::shivamya1204@gmail.com?subject=Suggestion"><b>shivamya1204@gmail.com</b></a> 
  
-- ⚡ Fun fact **I always find funs for entertainment in my life.**
+- ⚡ Fun fact **I always find funs for entertainment in my life.** <br><br>
 
 ## 🚀 Languages and Tools:
 
