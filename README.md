@@ -33,7 +33,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Profile Website](http://learntcroo.42web.io/)**
+- 🔭 I’m currently working on **[Profile Website](https://learntcroo.42web.io/)**
 
 - 🌱 I’m currently learning **Frameworks and NodeJs.**
 
