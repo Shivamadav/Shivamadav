@@ -1,8 +1,15 @@
 <!-- &#128064;&#128064;❤ ; &#128157; href="https://github.com/Shivamadav/github-readme-streak-stats"-->
-<!-- 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
-<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD">
- -->
+
+<!-- logo attach website---   https://icons8.com/icons/set/adobe-photoshop-logo    & Copy image address choose   & Search as premiere Pro logo-->
+ 
+<!-- <a href="https://linkedin/in/shivam-yadav123"><img src="https://i.ibb.co/Dkmbyg2/github-1.jpg" alt="github-1" border="0" width="100%"></a><br><br><br><br> -->
+
+ <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jm07GcX/github.jpg" alt="github" border="0"></a> -->
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
+<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD"> -->
+ 
+<img src="Git LOgo Banner Sceenshot.png" width="100%">
+ 
 
 <h3 align="right"><font color="lightgreen">Daily Jokes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#127872;&nbsp;</font></h3>
 
@@ -39,7 +46,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://learntcroo.42web.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://learntcroo.42web.io/)**
 
 - 📫 How to reach me **shivamya1204@gmail.com**
 
@@ -48,6 +55,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Programming :
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -56,7 +64,23 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video&nbsp; Editing&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/color/1x/adobe-premiere-pro.png"/> </a> 
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/1x/adobe-photoshop.png"/> </a> 
+     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/1x/adobe-after-effects.png"/> </a> 
+     <a href="https://www.adobe.com/products/catalog.html#category=creativity-design" target="_blank"> <img src="https://img.icons8.com/color/1x/adobe-audition.png"/> </a> 
+    <a href="https://filmora.wondershare.net/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/filmora.png"/> </a> 
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/visual-studio--v2.png"/> </a>
+    <a href="https://www.youtube.com/" target="_blank"> <img src="https://img.icons8.com/arcade/1x/youtube-squared.png"/> </a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphics Designing :
+    <a href="https://coreldraw.com/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/coreldraw-2021.png"/> </a>
+    <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/canva-app.png"/> </a>
+    <a href="https://www.programiz.com/c-programming/" target="_blank"> <img src="https://img.icons8.com/color/1x/c-programming.png"/> </a> 
+    <a href="https://www.programiz.com/cpp-programming/" target="_blank"> <img src="https://img.icons8.com/color/1x/c-plus-plus-logo.png"/> </a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codeless Design : 
+    <a href="https://www.blogger.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/blogger.png"/> </a> 
+    <a href="https://wordpress.org/download/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/wordpress.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -65,7 +89,7 @@
 
 
 <p align="left">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivamadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivamadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&width=100%/" >
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam Yadavstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -95,6 +119,9 @@
 <a href = "https://www.linkedin.com/in/shivam-yadav123/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/7581Shivam"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/fluency/1x/facebook-new.png"/></a><br><br>
+
+
 <!-- <a href = "https://www.youtube.com/@croomech9044/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
@@ -103,7 +130,10 @@
 <a href="https://komarev.com/ghpvc/?username=Shivamadav">
     <img src="https://komarev.com/ghpvc/?username=Shivamadav">
 </a>
-<a href="https://github.com/Shivamadav?tab=followers"><img src="https://img.shields.io/github/followers/Shivamadav?label=Followers&style=social" alt="GitHub Badge"></a><br>
+<a href="https://github.com/Shivamadav?tab=followers"><img src="https://img.shields.io/github/followers/Shivamadav?label=Followers&style=social" alt="GitHub Badge"></a><br><br><br><br><br><hr>
+
+<!-- <a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/color/1x/comments.png"/></a>
+<a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/color/1x/facebook-like.png"/></a> -->
 
 
 
