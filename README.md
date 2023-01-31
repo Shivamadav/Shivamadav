@@ -1,3 +1,5 @@
+![logo](https://github.com/Shivamadav/Shivamadav/blob/main/Github%20Banner.png)
+
 <h3><font color="lightgreen">Daily Jokes</font></h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
