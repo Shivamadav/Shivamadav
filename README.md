@@ -1,7 +1,8 @@
 <!-- &#128064;&#128064;❤ ; &#128157; -->
-
-<img src="https://i.ibb.co/xScgm7n/github.jpg" alt="github" border="0" width="100%"> 
-
+<!-- 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
+<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD">
+ -->
 
 <h3><font color="lightgreen">Daily Jokes</font></h3>&#127872;
 
