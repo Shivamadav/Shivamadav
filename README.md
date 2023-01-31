@@ -18,7 +18,7 @@
 &#11088; &#11088; &#11088; &#11088;&#11088;<br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Shivamadav)<br>
-&#127941;&#127941;&#127941;&#127941;&#127941;&#127941;<br><br>
+&#127941;&#127941;&#127941;&#127941;&#127941;&#127941;<br><br><br><br>
 
 
 <a href="#"><img align="right" width="300" height="auto" src="https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" /></a>
