@@ -1,4 +1,4 @@
-<!-- &#128064;&#128064;❤ ; &#128157; -->
+<!-- &#128064;&#128064;❤ ; &#128157; href="https://github.com/Shivamadav/github-readme-streak-stats"-->
 <!-- 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
 <img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD">
@@ -65,7 +65,7 @@
 
 
 <p align="left">
-    <a href="https://github.com/Shivamadav/github-readme-streak-stats">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=shivamadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shivam Yadavstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamadav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -104,3 +104,11 @@
     <img src="https://komarev.com/ghpvc/?username=Shivamadav">
 </a>
 <a href="https://github.com/Shivamadav?tab=followers"><img src="https://img.shields.io/github/followers/Shivamadav?label=Followers&style=social" alt="GitHub Badge"></a><br>
+
+
+
+
+
+
+
+
