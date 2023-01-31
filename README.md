@@ -1,6 +1,9 @@
-![logo](https://github.com/Shivamadav/Shivamadav/blob/main/Github%20Banner.png)
+<!-- &#128064;&#128064;❤ ; &#128157; -->
+<!-- ![logo](./Practise/Github%20Banner.png)<br> -->
+<img src="./Practise/Github%20Banner.png" width="100%" height="50%">
 
-<h3><font color="lightgreen">Daily Jokes</font></h3>
+
+<h3><font color="lightgreen">Daily Jokes</font></h3>&#127872;
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -8,9 +11,11 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/Shivamadav)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/shivamyadav)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/shivamyadav) 
+&#11088; &#11088; &#11088; &#11088;&#11088;<br>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Shivamadav)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Shivamadav)<br>
+&#127941;&#127941;&#127941;&#127941;&#127941;&#127941;<br><br>
 
 
 <a href="#"><img align="right" width="300" height="auto" src="https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" /></a>
@@ -19,7 +24,7 @@
 
 
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><font color="lightgreen" face="algerian">, I'm Shivam Yadav</font></h1>
+<h1 align="center">Hi &#128075;, &#9823;'m Shivam Yadav&nbsp;&nbsp;</font>&#127894;</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -62,7 +67,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats&#11088; &#11088; &#11088; &#11088;&#11088;
 
 
 
@@ -91,8 +96,8 @@
 
 </p>
 
-## ❤ Views and Followers
+##  ❤ Views and Followers
 <a href="https://komarev.com/ghpvc/?username=Shivamadav">
     <img src="https://komarev.com/ghpvc/?username=Shivamadav">
 </a>
-<a href="https://github.com/Shivamadav?tab=followers"><img src="https://img.shields.io/github/followers/Shivamadav?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Shivamadav?tab=followers"><img src="https://img.shields.io/github/followers/Shivamadav?label=Followers&style=social" alt="GitHub Badge"></a><br>
