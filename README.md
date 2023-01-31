@@ -6,7 +6,9 @@
 
 <h3><font color="lightgreen">Daily Jokes</font></h3>&#127872;
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+<img src="https://readme-jokes.vercel.app/api" align="right" alt="Jokes Card">
 
 <h3><font color="lightgreen">Developer</font></h3>
 
