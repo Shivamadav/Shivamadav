@@ -48,8 +48,8 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://learntcroo.42web.io/)**
 
-- 📫 How to reach me **shivamya1204@gmail.com** 
-- <a href="mailto::shivamya1204@gmail.com?subject=Suggestion"><b>shivamya1204@gmail.com</b></a>
+- 📫 How to reach me <a href="mailto::shivamya1204@gmail.com?subject=Suggestion"><b>shivamya1204@gmail.com</b></a> 
+ 
 - ⚡ Fun fact **I always find funs for entertainment in my life.**
 
 ## 🚀 Languages and Tools:
