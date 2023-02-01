@@ -6,26 +6,42 @@
 
  <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jm07GcX/github.jpg" alt="github" border="0"></a> -->
 <!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/4tmffyRr/githutytb.png" alt="github" border="0"></a>
-<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD"> 
+<img src="https://kapwi.ng/w/1Mt66OuunJhjhRtD"> -->
+
+
+<!--image online url create>> https://en.bloggif.com/resize?id=cf94f1e77f45b9a3db97d40f1b313fe8 -->
+
+<!--3D Cube Create Online>> https://en.bloggif.com/cube-3d -->
  
-<img src="Git LOgo Banner Sceenshot.png" width="100%"> -->
+
+
+<!-- START FROM DOWN -->
+
+
+
+
+<img src="Git LOgo Banner Sceenshot.png" width="100%">
  
 
 <h3 align="right"><font color="lightgreen">Daily Jokes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#127872;&nbsp;</font></h3>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-
+<a href="https://www.learntcroo.42web.io/?i=1"  title="Photo Editing"><img  src="https://data.bloggif.com/distant/user/store/c/a/e/8/0528a1918194256cc92b28ce92a68eac.png" alt="Mounting created Bloggif" width="60" height="60" /></a>
 <img src="https://readme-jokes.vercel.app/api" align="right" alt="Jokes Card">
 
 <h3><font color="lightgreen">Developer</font></h3>
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/Shivamadav)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/Shivamadav)<br>
+
+
+<!-- <a href="https://www.github.com/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/9/4/d/b/290d5418a508be25dfe1ef21916cbd49.gif" alt="Mounting created Bloggif" width="30" height="30" /></a> -->
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Shivamadav/shivamyadav) 
 &#11088; &#11088; &#11088; &#11088;&#11088;<br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Shivamadav)<br>
 &#127941;&#127941;&#127941;&#127941;&#127941;&#127941;<br><br><br><br>
+
 
 
 <a href="#"><img align="right" width="300" height="auto" src="https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" /></a>
@@ -48,17 +64,26 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://learntcroo.42web.io/)**
 
-- 📫 How to reach me <a href="mailto::shivamya1204@gmail.com?subject=Suggestion"><b>shivamya1204@gmail.com</b></a> 
- 
-- ⚡ Fun fact **I always find funs for entertainment in my life.** <br><br>
+- 📫 How to reach me <a href="mailto::shivamya1204@gmail.com?subject=Suggestion"><b>shivamya1204@gmail.com</b></a>
+
+
+
+
+- ⚡ Fun fact **I always find funs for entertainment in my life.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Programming :
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/7/1/3/a/9a84aec376a11f8f91dc5647ae8fa317.gif" alt="Mounting created Bloggif" width="50" height="50" /></a>
+<!-- HTML5 Logo -->
+    <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
+    <a href="https://www.w3.org/html/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/1/8/7/5/ef79e3aab7e2d672113bd85da0545781.gif" alt="Mounting created Bloggif" width="50" height="50" /></a>
+<!-- CSS3 logo -->
+    <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
+    <a href="https://www.w3schools.com/css/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/3/1/3/5/47c008827eda2836b6057e8268cd5313.gif" alt="Mounting created Bloggif" width="50" height="50" /></a>
+<!-- Bootstrap Logo -->
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -75,7 +100,8 @@
     <a href="https://www.youtube.com/" target="_blank"> <img src="https://img.icons8.com/arcade/1x/youtube-squared.png"/> </a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphics Designing :
     <a href="https://coreldraw.com/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/coreldraw-2021.png"/> </a>
-    <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/canva-app.png"/> </a>
+    <!-- <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/fluency/1x/canva-app.png"/> </a> -->
+    <a href="https://www.canva.com/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/3/f/6/d/5c02bf0ff4c58da789e086cdb408d6f3.gif" alt="Mounting created Bloggif" width="50" height="50" /></a>
     <a href="https://www.programiz.com/c-programming/" target="_blank"> <img src="https://img.icons8.com/color/1x/c-programming.png"/> </a> 
     <a href="https://www.programiz.com/cpp-programming/" target="_blank"> <img src="https://img.icons8.com/color/1x/c-plus-plus-logo.png"/> </a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codeless Design : 
@@ -134,11 +160,3 @@
 
 <!-- <a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/color/1x/comments.png"/></a>
 <a href = "https://www.instagram.com/vaaste279/"><img src="https://img.icons8.com/color/1x/facebook-like.png"/></a> -->
-
-
-
-
-
-
-
-
