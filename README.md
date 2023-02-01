@@ -20,8 +20,8 @@
 
 
 
-<img src="Git LOgo Banner Sceenshot.png" width="100%">
- 
+<!-- <img src="Git LOgo Banner Sceenshot.png" width="100%"> -->
+ <a href="https://en.bloggif.com/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/b/a/0/c/8209e45960299dea49a28b37148fc0ab.png" alt="Mounting created Bloggif" width="100%" /></a>
 
 <h3 align="right"><font color="lightgreen">Daily Jokes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#127872;&nbsp;</font></h3>
 
