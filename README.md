@@ -173,3 +173,5 @@
 
 
 [![Shivam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivamadav&theme=dracula)](https://github.com/Shivamadav/github-readme-activity-graph)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L6IUI2G)
