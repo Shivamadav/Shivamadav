@@ -137,7 +137,15 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Shivamadav/github-readme-activity-graph"><img alt="Shivam Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/Shivamadav/github-readme-activity-graph"><img alt="Shivam Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+
+
+<details>
+<h2><summary>Additional info :</summary></h2>
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivamadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github-readme-activity-graph.cyclic.app/graph?username=Shivamadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+</details>
 
 <br/>
 <br/>
